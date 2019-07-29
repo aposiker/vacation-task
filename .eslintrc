@@ -1,0 +1,19 @@
+{
+  "plugins": [
+  ],
+  "extends": "airbnb-base",
+  "rules": {
+    "class-methods-use-this": "off",
+    "no-plusplus": "off",
+    "no-await-in-loop": "off"
+  },
+  "globals": {
+    "$": false,
+    "$$": false,
+    "browser": false,
+    "driver": false,
+    "describe": false,
+    "it": false,
+    "beforeEach": false
+  }
+}

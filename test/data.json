@@ -1,0 +1,26 @@
+{
+  "pass1": {
+    "firstName": "Jan",
+    "lastName": "Visser",
+    "dayOfBirth": "10",
+    "monthOfBirth": "10",
+    "yearOfBirth": "1972"
+  },
+  "pass2": {
+    "firstName": "Mirjam",
+    "lastName": "Visser",
+    "dayOfBirth": "3",
+    "monthOfBirth": "4",
+    "yearOfBirth": "1975"
+  },
+  "postcode": "1852TB",
+  "city": "Heiloo",
+  "house": "23",
+  "street": "Termijen",
+  "email": "jan.visser.dummy@gmail.com",
+  "phone": "0612345678",
+  "EC": {
+    "name": "Fam. Visser",
+    "phone": "0612345687"
+  }
+}
